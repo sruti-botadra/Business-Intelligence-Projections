@@ -21,3 +21,4 @@ We have used 6 datasets.
 4. **Sales of leading coffee chain houses in the US**.
 5. **Share of Americans visiting leading coffee chain houses in US:** Combing common age groups for Dunkin Donuts and Starbucks to obtain two different data sets for share of visiting Dunkin Donuts and Starbucks each.
 
+![](images/slide3.jpg)
